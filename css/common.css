@@ -31,3 +31,9 @@ body {
   height: auto;
   border-radius: 5px;
 }
+
+#boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
